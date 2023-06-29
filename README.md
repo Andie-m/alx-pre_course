@@ -1,2 +1,1 @@
-My first readme 
-README.md update from GitHub.com
+am learning software engineering with alx
